@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/educate-online-react-app/static/css/main.b1ae24db.chunk.css",
+    "main.js": "/educate-online-react-app/static/js/main.7241a84d.chunk.js",
+    "main.js.map": "/educate-online-react-app/static/js/main.7241a84d.chunk.js.map",
+    "runtime-main.js": "/educate-online-react-app/static/js/runtime-main.f1eab3f1.js",
+    "runtime-main.js.map": "/educate-online-react-app/static/js/runtime-main.f1eab3f1.js.map",
+    "static/js/2.999201d4.chunk.js": "/educate-online-react-app/static/js/2.999201d4.chunk.js",
+    "static/js/2.999201d4.chunk.js.map": "/educate-online-react-app/static/js/2.999201d4.chunk.js.map",
+    "index.html": "/educate-online-react-app/index.html",
+    "precache-manifest.9a0419c58989b5a24535c021bee5e580.js": "/educate-online-react-app/precache-manifest.9a0419c58989b5a24535c021bee5e580.js",
+    "service-worker.js": "/educate-online-react-app/service-worker.js",
+    "static/css/main.b1ae24db.chunk.css.map": "/educate-online-react-app/static/css/main.b1ae24db.chunk.css.map",
+    "static/js/2.999201d4.chunk.js.LICENSE.txt": "/educate-online-react-app/static/js/2.999201d4.chunk.js.LICENSE.txt",
+    "static/media/featured-courses.styles.css": "/educate-online-react-app/static/media/seo.9e1fc689.jpg",
+    "static/media/banner-1.png": "/educate-online-react-app/static/media/banner-1.da9d6362.png",
+    "static/media/news-events.styles.css": "/educate-online-react-app/static/media/node.e451017b.jpg",
+    "static/media/person-1.jpg": "/educate-online-react-app/static/media/person-1.df4e0227.jpg",
+    "static/media/testinomial.styles.css": "/educate-online-react-app/static/media/team.828f0d7f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1eab3f1.js",
+    "static/js/2.999201d4.chunk.js",
+    "static/css/main.b1ae24db.chunk.css",
+    "static/js/main.7241a84d.chunk.js"
+  ]
+}
